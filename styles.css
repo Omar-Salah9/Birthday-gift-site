@@ -62,8 +62,8 @@ h1, h2, h3, h4, p {
     background-size: cover;
 }
 
-#gift-img-happy:hover {
-    background-image: url("images/happy.gif");
+#gift-img-miss-you:hover {
+    background-image: url("images/miss-you.gif");
 }
 
 #gift-img-hot:hover {
@@ -80,12 +80,6 @@ h1, h2, h3, h4, p {
 
 #gift-img-cheers:hover {
     background-image: url("images/cheers.gif");
-}
-
-#footer {
-    font-style: italic;
-    width: 400px;
-    margin: 40px auto 20px;
 }
 
 a {
